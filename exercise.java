@@ -4,4 +4,7 @@ public class exercise {
         System.out.println("Hello, World!");
         System.out.println("This is a simple Java program.");
     }
+    public void newMethod() {
+        System.out.println("This is a new method added to the class.");
+    }
 }
